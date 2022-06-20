@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sarsop"]
+	path = sarsop
+	url = https://github.com/boettiger-lab/sarsop
+	shallow = true
+	registered = true
