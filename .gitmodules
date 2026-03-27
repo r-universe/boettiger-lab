@@ -5,6 +5,9 @@
 [submodule "earthdatalogin"]
 	path = earthdatalogin
 	url = https://github.com/boettiger-lab/earthdatalogin
+[submodule "rcloner"]
+	path = rcloner
+	url = https://github.com/boettiger-lab/rcloner
 [submodule "sarsop"]
 	path = sarsop
 	url = https://github.com/boettiger-lab/sarsop
